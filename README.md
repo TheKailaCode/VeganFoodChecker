@@ -4,7 +4,7 @@
 
 <br />
 
-<img align="center" width="200%" alt="codewarsRepoReadme" src="assets/ezgif.com-gif-maker4 repo.gif">
+<!--<img align="center" width="200%" alt="codewarsRepoReadme" src="assets/ezgif.com-gif-maker4 repo.gif">-->
 
 <br />
 
